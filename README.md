@@ -25,6 +25,7 @@ ContentChildren includes only elements that exists within the ng-content tag.
 <h3>@ContentChildren —</h3>
 Returns the specified elements or directives from the content DOM as QueryList
 </pre>
+Reference: <a href="https://www.youtube.com/watch?v=NJFIEp2RDBM">Reference video</a>
 # Encasuplation:
 <pre>
 The valid values for this config property are:
