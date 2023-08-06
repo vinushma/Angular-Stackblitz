@@ -12,9 +12,17 @@ An impure pipe is called for every change detection cycle no matter whether the 
 Async is an example of an impure pipe. It is always checking for new input data. Pure will be true if not specified. The pure property tells Angular whether or not the value should be recomputed when its input changes.
 
 </pre>
+# Angular Hook Methods
+<pre>
+<a target="_blank" href='https://stackblitz.com/edit/angular-empty-project-t5pppk?file=app%2Fapp.component.html,app%2Fapp.module.ts,app%2Fparent%2Fparent.component.html,app%2Fparent%2Fparent.component.ts,app%2Fchild%2Fchild.component.ts,app%2Fchild%2Fchild.component.html,app%2Fchild%2Fchild.component.css'>My Stack</a>
+</pre>
+# Encapsulation
+<pre>
+<a target="_blank" href='https://stackblitz.com/edit/angular-empty-project-omq2fh?file=app%2Fapp.component.html,app%2Fapp.module.ts,app%2Fbottom%2Fbottom.component.html,app%2Fbottom%2Fbottom.component.ts,app%2Ffilter.pipe.ts,app%2Fresult.pipe.ts,app%2Ftop%2Ftop.component.html,app%2Ftop%2Ftop.component.ts,app%2Fbottom%2Fbottom.component.css,app%2Ftop%2Ftop.component.css,styles.css'>My Stack</a>
+</pre>
 # Routes & Gaurds
 <pre>
-<a target='_blank' href='https://stackblitz.com/edit/angular-empty-project-p8212j?file=app%2Fapp.module.ts,app%2Fapp.component.html,app%2Fapp.component.ts,app%2Fapp.component.css,app%2Fpagenotfound%2Fpagenotfound.component.html,app%2Fauth.guard.ts,app%2Fproducts%2Fproducts.component.ts'>My Stack</a>
+<a target="_blank" href='https://stackblitz.com/edit/angular-empty-project-p8212j?file=app%2Fapp.module.ts,app%2Fapp.component.html,app%2Fapp.component.ts,app%2Fapp.component.css,app%2Fpagenotfound%2Fpagenotfound.component.html,app%2Fauth.guard.ts,app%2Fproducts%2Fproducts.component.ts'>My Stack</a>
 </pre>
 # Filters
 <pre>
