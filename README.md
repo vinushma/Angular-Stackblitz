@@ -81,6 +81,10 @@ Get User BY Id : https://jsonplaceholder.typicode.com/todos?userId=${post.userId
 <pre>
 <a target="_blank" href='https://stackblitz.com/edit/angular-empty-project-p8212j?file=app%2Fapp.module.ts,app%2Fapp.component.html,app%2Fapp.component.ts,app%2Fapp.component.css,app%2Fpagenotfound%2Fpagenotfound.component.html,app%2Fauth.guard.ts,app%2Fproducts%2Fproducts.component.ts'>My Stack</a>
 </pre>
+# Routing, RouterLink, Route.navigate, Route.navigateByURL
+<pre>
+<a target="_blank" href='https://stackblitz.com/edit/angular-routing-query-params-ckc5sq?file=src%2Fapp%2Fapp.component.html,src%2Fapp%2Fapp.module.ts,src%2Fapp%2Fapp.component.ts,src%2Fapp%2Fproducts%2Fproducts.component.html'>My Stack</a>
+</pre>
 # Directives
 <pre>
 <a target='_blank' href='https://stackblitz.com/edit/angular-hello-world?file=app%2Fhighlight.directive.ts,app%2Fapp.module.ts,app%2Fapp.component.html,app%2Fapp.component.ts'>My StackBlitz</a>
