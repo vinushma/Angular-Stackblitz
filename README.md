@@ -26,6 +26,8 @@ ContentChildren includes only elements that exists within the ng-content tag.
 Returns the specified elements or directives from the content DOM as QueryList
 </pre>
 Reference: <a href="https://www.youtube.com/watch?v=NJFIEp2RDBM">Reference video</a>
+
+ViewChild & COntentChild Example: <a href="https://stackblitz.com/edit/angular-8-viewchild-example-9uvqjl?file=src%2Fapp%2Fapp.module.ts,src%2Fapp%2Fapp.component.html,src%2Fapp%2Fchild%2Fchild.component.ts,src%2Fapp%2Fapp.component.ts,src%2Fapp%2Fchild%2Fchild.component.html,src%2Findex.html,src%2Fapp%2Fapp.component.css">ViewChild & COntentChild</a>
 # Encasuplation:
 <pre>
 The valid values for this config property are:
