@@ -121,4 +121,5 @@ Switch Map:
 <a target='_blank' href='https://stackblitz.com/edit/angular-switchmap-rxjs?file=src%2Fapp%2Fapp.component.ts,src%2Fapp%2Fsearch.service.ts'>My SwitchMap Example with http search</a> 
 ForkJoin:
 <a target='_blank' href='https://stackblitz.com/edit/rxjs-concat-forkjoin-ax4tvk?file=index.ts'>My Stack</a>
+<a target='_blank' href='https://stackblitz.com/edit/angular-forkjoin-handle-errors-xd7j1c?file=src%2Fapp%2Fapp.module.ts,src%2Fapp%2Fapp.component.ts,src%2Fapp%2Fapp.component.html'>All Operators</a>
 </pre>
